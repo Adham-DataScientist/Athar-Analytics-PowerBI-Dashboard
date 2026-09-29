@@ -1,24 +1,67 @@
-# 📊 Athar Analytics - Interactive Power BI Dashboard
+# 📊 Athar Academy Analytics | Executive Power BI Dashboard
 
-## 📌 Overview
-An end-to-end Interactive Business Intelligence Dashboard built using **Power BI** to analyze performance data for Athar Academy. The dashboard provides data-driven insights across student enrollment, course demand, and marketing effectiveness.
+![Athar Academy Analytics](Welcome%20Page.jpg)
 
----
+## 📌 Business Overview
+**Athar Academy Analytics** is an end-to-end Business Intelligence solution designed to provide actionable executive insights into academic operations, student enrollments, course performance, and marketing efficiency.
 
-## 🎯 Key Features & Dashboard Pages
-1. **Executive Overview:** High-level summary of enrollments, revenue, and key performance indicators (KPIs).
-2. **Student Demographics:** Analysis of student distribution, geographic presence, and user profiles.
-3. **Course Performance:** Deep dive into completion rates, popular programs, and revenue per course.
-4. **Marketing Analysis:** Detailed calculation of **ROAS (Return on Ad Spend)** and **CAC (Customer Acquisition Cost)** across marketing channels.
+By processing and analyzing complex business metrics, this interactive Power BI dashboard enables data-driven decision-making to optimize marketing budgets, improve course completion rates, and maximize total revenue.
 
 ---
 
-## 🛠️ Technical Highlights
-* **Data Modeling:** Star Schema architecture ensuring high query performance and scalable relationships.
-* **DAX Formulas:** Custom measures for complex metrics (e.g., ROAS, CAC, Active Enrollment Rates).
-* **UI/UX Design:** Dark-themed, accessible, and user-friendly dashboard interface.
+## 🚀 Key Achievements & Business Impact
+* **💰 Total Revenue Analyzed:** **7.42M SAR** in total earnings tracked across multiple course categories.
+* **👥 Student Engagement:** **12,000+ total enrollments** with **5,000+ unique students** managed.
+* **📈 High Return on Ad Spend (ROAS):** Evaluated campaigns achieving up to **57.96x ROAS**, identifying top-performing acquisition channels.
+* **🎓 Course Completion Rate:** Tracked an average completion rate of **54.88%** across 20 specialized courses.
 
 ---
 
-## 🔗 Live Interactive Dashboard
-👉 [Click here to view the live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZmY1ZWEyZTEtODJhOS00ZjY3LTk4NDUtODdlYzAwOWFjYzY2IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+## 🛠️ Tech Stack & Tools Used
+* **Business Intelligence:** Microsoft Power BI Desktop & Power BI Service
+* **Data Modeling:** Star Schema Design, DAX (Data Analysis Expressions)
+* **Data Transformation:** Power Query (ETL)
+* **Design & UI/UX:** Custom Low-Saturation Color Palette for Executive Comfort
+
+---
+
+## 📸 Dashboard Screenshots & Features
+
+### 1. 🏠 Welcome Page
+Landing page designed to give users a clean access portal to the analytics system.
+![Welcome Page](Welcome%20Page.jpg)
+
+---
+
+### 2. 📊 Executive Overview & Student Analysis
+| Executive Overview | Students Analysis |
+| :---: | :---: |
+| ![Overview Page](Overview%20Page.png) | ![Students Page](Student%20Page.png) |
+
+* **Executive Overview:** High-level metrics showing revenue trends, target progress, revenue by category, and regional performance.
+* **Students Analysis:** Deep dive into student demographics, geographic distribution across Saudi cities, and enrollment habits.
+
+---
+
+### 3. 📚 Courses & Marketing Performance
+| Courses Performance | Marketing Performance |
+| :---: | :---: |
+| ![Courses Page](Courses%20Page.png) | ![Marketing Page](Marketing%20Page.png) |
+
+* **Courses Performance:** Instructor revenue benchmarks, course completion rates, and enrollment volume per category.
+* **Marketing Performance:** Tracking paid acquisition channels (Instagram, Google Ads, LinkedIn) and quarterly campaign effectiveness.
+
+---
+
+## 🔗 Live Interactive Demo
+You can interact with the live dashboard directly:
+👉 [**View Live Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZmY1ZWEyZTEtODJhOS00ZjY3LTk4NDUtODdlYzAwOWFjYzY2IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
+---
+
+## 👤 Author
+**Adham Mahmoud Awad**  
+*Data Analyst & Business Intelligence Specialist*  
+* 🌐 **Portfolio Website:** [Adham's Portfolio](https://adham-datascientist.github.io/adham-portfolio/)
+* 💼 **LinkedIn:** [Adham Awad](https://linkedin.com)
+* 🐙 **GitHub:** [@Adham-DataScientist](https://github.com/Adham-DataScientist)

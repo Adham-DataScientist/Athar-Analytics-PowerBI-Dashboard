@@ -1,6 +1,6 @@
 # 📊 Athar Academy Analytics | Executive Power BI Dashboard
 
-![Athar Academy Analytics](Welcome%20Page.jpg)
+![Athar Academy Analytics](images/Welcome%20Page.png)
 
 ## 📌 Business Overview
 **Athar Academy Analytics** is an end-to-end Business Intelligence solution designed to provide actionable executive insights into academic operations, student enrollments, course performance, and marketing efficiency.
@@ -29,14 +29,14 @@ By processing and analyzing complex business metrics, this interactive Power BI 
 
 ### 1. 🏠 Welcome Page
 Landing page designed to give users a clean access portal to the analytics system.
-![Welcome Page](Welcome%20Page.jpg)
+![Welcome Page](images/Welcome%20Page.png)
 
 ---
 
 ### 2. 📊 Executive Overview & Student Analysis
 | Executive Overview | Students Analysis |
 | :---: | :---: |
-| ![Overview Page](Overview%20Page.png) | ![Students Page](Student%20Page.png) |
+| ![Overview Page](images/Overview%20Page.png) | ![Students Page](images/Students%20page.png) |
 
 * **Executive Overview:** High-level metrics showing revenue trends, target progress, revenue by category, and regional performance.
 * **Students Analysis:** Deep dive into student demographics, geographic distribution across Saudi cities, and enrollment habits.
@@ -46,7 +46,7 @@ Landing page designed to give users a clean access portal to the analytics syste
 ### 3. 📚 Courses & Marketing Performance
 | Courses Performance | Marketing Performance |
 | :---: | :---: |
-| ![Courses Page](Courses%20Page.png) | ![Marketing Page](Marketing%20Page.png) |
+| ![Courses Page](images/Courses%20Page.png) | ![Marketing Page](images/Marketing%20Page.png) |
 
 * **Courses Performance:** Instructor revenue benchmarks, course completion rates, and enrollment volume per category.
 * **Marketing Performance:** Tracking paid acquisition channels (Instagram, Google Ads, LinkedIn) and quarterly campaign effectiveness.
